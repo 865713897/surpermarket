@@ -17,3 +17,9 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 运行代码步骤
+### npm install
+### npm run serve
+
+### 数据接口已经隐藏
